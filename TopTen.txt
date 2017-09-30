@@ -1,0 +1,20 @@
+Hobo
+ 1050
+Apple
+ 1000
+Mr. Kummer
+ 1000
+Smith
+ 600
+Cronin
+ 556
+John
+ 555
+Aaron
+ 550
+Sam
+ 550
+Lindsey
+ 550
+Sam
+ 550
